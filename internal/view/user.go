@@ -28,7 +28,7 @@ func NewUser(gvr client.GVR) ResourceViewer {
 }
 
 func (u *User) bindKeys(aa *ui.KeyActions) {
-	aa.Delete(ui.KeyShiftA, ui.KeyShiftP, tcell.KeyCtrlSpace, ui.KeySpace, tcell.KeyCtrlD, ui.KeyE)
+	aa.Delete(ui.KeyShiftA, ui.KeyShiftP, tcell.KeyCtrlSpace, ui.KeySpace, tcell.KeyDelete, ui.KeyE)
 	aa.Bulk(ui.KeyMap{
 		tcell.KeyEnter: ui.NewKeyAction("Rules", u.policyCmd, true),
 		ui.KeyShiftK:   ui.NewKeyAction("Sort Kind", u.GetTable().SortColCmd("KIND", true), false),

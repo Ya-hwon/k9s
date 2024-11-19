@@ -43,7 +43,7 @@ func (w *Workload) bindDangerousKeys(aa *ui.KeyActions) {
 				Visible:   true,
 				Dangerous: true,
 			}),
-		tcell.KeyCtrlD: ui.NewKeyActionWithOpts("Delete", w.deleteCmd,
+		tcell.KeyDelete: ui.NewKeyActionWithOpts("Delete", w.deleteCmd,
 			ui.ActionOpts{
 				Visible:   true,
 				Dangerous: true,

@@ -545,7 +545,7 @@ func (b *Browser) refreshActions() {
 					}))
 			}
 			if client.Can(b.meta.Verbs, "delete") {
-				aa.Add(tcell.KeyCtrlD, ui.NewKeyActionWithOpts("Delete", b.deleteCmd,
+				aa.Add(tcell.KeyDelete, ui.NewKeyActionWithOpts("Delete", b.deleteCmd,
 					ui.ActionOpts{
 						Visible:   true,
 						Dangerous: true,
