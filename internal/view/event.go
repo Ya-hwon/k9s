@@ -26,7 +26,7 @@ func NewEvent(gvr client.GVR) ResourceViewer {
 }
 
 func (e *Event) bindKeys(aa *ui.KeyActions) {
-	aa.Delete(tcell.KeyCtrlD, ui.KeyE, ui.KeyA)
+	aa.Delete(tcell.KeyDelete, ui.KeyE, ui.KeyA)
 	aa.Bulk(ui.KeyMap{
 		ui.KeyShiftL: ui.NewKeyAction("Sort LastSeen", e.GetTable().SortColCmd("LAST SEEN", false), false),
 		ui.KeyShiftF: ui.NewKeyAction("Sort FirstSeen", e.GetTable().SortColCmd("FIRST SEEN", false), false),
