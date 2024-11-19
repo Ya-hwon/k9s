@@ -1,4 +1,4 @@
-module github.com/derailed/k9s
+module github.com/Ya-hwon/k9s
 
 go 1.23.0
 
