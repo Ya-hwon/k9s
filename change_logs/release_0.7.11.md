@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.7.11
 
@@ -21,4 +21,4 @@ Maintenance release. Just code clean up and small bug fixes.
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

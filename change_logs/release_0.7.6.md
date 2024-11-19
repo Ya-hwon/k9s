@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.7.6
 
@@ -24,13 +24,13 @@ The resource delete dialog was updated to provide affordance for force and casca
 
 ## Resolved Bugs/Features
 
-+ [Feature #193](https://github.com/derailed/k9s/issues/193)
-+ [Issue #205](https://github.com/derailed/k9s/issues/205)
-+ [Issue #212](https://github.com/derailed/k9s/issues/212)
-+ [Issue #215](https://github.com/derailed/k9s/issues/215)
-+ [Issue #220](https://github.com/derailed/k9s/issues/220)
++ [Feature #193](https://github.com/Ya-hwon/k9s/issues/193)
++ [Issue #205](https://github.com/Ya-hwon/k9s/issues/205)
++ [Issue #212](https://github.com/Ya-hwon/k9s/issues/212)
++ [Issue #215](https://github.com/Ya-hwon/k9s/issues/215)
++ [Issue #220](https://github.com/Ya-hwon/k9s/issues/220)
 
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

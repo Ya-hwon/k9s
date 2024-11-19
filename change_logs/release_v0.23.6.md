@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.23.6
 
@@ -32,11 +32,11 @@ Thank you all for your understanding, kindness and support!!
 
 ## Resolved Issues/Features
 
-* [Issue #929](https://github.com/derailed/k9s/issues/929) Crash on startup with no metrics-server detected
-* [Issue #926](https://github.com/derailed/k9s/issues/926) JSON Do you have plans to apply
+* [Issue #929](https://github.com/Ya-hwon/k9s/issues/929) Crash on startup with no metrics-server detected
+* [Issue #926](https://github.com/Ya-hwon/k9s/issues/926) JSON Do you have plans to apply
 
 ## Resolved PRs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

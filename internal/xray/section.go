@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal/render"
 	"github.com/derailed/popeye/pkg/config"
 )
 

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.17.0
 
@@ -12,7 +12,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/beach.png" align="center"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/beach.png" align="center"/>
 
 ## Custom Columns? Yes Please!!
 
@@ -50,15 +50,15 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #581](https://github.com/derailed/k9s/issues/581)
-- [Issue #576](https://github.com/derailed/k9s/issues/576)
-- [Issue #574](https://github.com/derailed/k9s/issues/574)
-- [Issue #573](https://github.com/derailed/k9s/issues/573)
-- [Issue #571](https://github.com/derailed/k9s/issues/571)
-- [Issue #566](https://github.com/derailed/k9s/issues/566)
-- [Issue #563](https://github.com/derailed/k9s/issues/563)
-- [Issue #562](https://github.com/derailed/k9s/issues/562)
+- [Issue #581](https://github.com/Ya-hwon/k9s/issues/581)
+- [Issue #576](https://github.com/Ya-hwon/k9s/issues/576)
+- [Issue #574](https://github.com/Ya-hwon/k9s/issues/574)
+- [Issue #573](https://github.com/Ya-hwon/k9s/issues/573)
+- [Issue #571](https://github.com/Ya-hwon/k9s/issues/571)
+- [Issue #566](https://github.com/Ya-hwon/k9s/issues/566)
+- [Issue #563](https://github.com/Ya-hwon/k9s/issues/563)
+- [Issue #562](https://github.com/Ya-hwon/k9s/issues/562)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

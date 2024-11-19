@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.25.14
 
@@ -20,8 +20,8 @@ Doh! Hot fix on the way...
 
 ## Resolved Issues
 
-* [Issue #1384](https://github.com/derailed/k9s/issues/1384) Leaving Logs View Causes Crash: "panic: send on closed channel"
+* [Issue #1384](https://github.com/Ya-hwon/k9s/issues/1384) Leaving Logs View Causes Crash: "panic: send on closed channel"
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

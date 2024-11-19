@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.24.0
 
@@ -29,16 +29,16 @@ Your sponsorships efforts are vital to keep this project alive and evolving. So 
 
 ## Resolved Issues/Features
 
-* [Issue #953](https://github.com/derailed/k9s/issues/953) Pdb with percentages show as "0".
-* [Issue #947](https://github.com/derailed/k9s/issues/947) Selection is applied for nonexistent items.
-* [Issue #944](https://github.com/derailed/k9s/issues/944) Can not launch ksniff.
-* [Issue #940](https://github.com/derailed/k9s/issues/940) Indeterminate search results when filtering with numbers.
-* [Issue #914](https://github.com/derailed/k9s/issues/914) Unable to edit resources with colliding singular names.
+* [Issue #953](https://github.com/Ya-hwon/k9s/issues/953) Pdb with percentages show as "0".
+* [Issue #947](https://github.com/Ya-hwon/k9s/issues/947) Selection is applied for nonexistent items.
+* [Issue #944](https://github.com/Ya-hwon/k9s/issues/944) Can not launch ksniff.
+* [Issue #940](https://github.com/Ya-hwon/k9s/issues/940) Indeterminate search results when filtering with numbers.
+* [Issue #914](https://github.com/Ya-hwon/k9s/issues/914) Unable to edit resources with colliding singular names.
 
 ## Resolved PRs
 
-* [PR #941](https://github.com/derailed/k9s/pull/941) Add Monokai skin. My new favorite skin! Big Thanks to [Mike SigsWorth](https://github.com/mikesigs)!!
+* [PR #941](https://github.com/Ya-hwon/k9s/pull/941) Add Monokai skin. My new favorite skin! Big Thanks to [Mike SigsWorth](https://github.com/mikesigs)!!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

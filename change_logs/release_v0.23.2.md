@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.23.2
 
@@ -24,12 +24,12 @@ In the last drop, we've introduces reverse filters to filter out resources from 
 
 ## Resolved Issues/Features
 
-* [Issue #906](https://github.com/derailed/k9s/issues/906) Print resources in pod view. With Feelings. Thanks Claudio!
-* [Issue #889](https://github.com/derailed/k9s/issues/889) Disable readOnly config
-* [Issue #564](https://github.com/derailed/k9s/issues/564) Invert filter mode on logs
+* [Issue #906](https://github.com/Ya-hwon/k9s/issues/906) Print resources in pod view. With Feelings. Thanks Claudio!
+* [Issue #889](https://github.com/Ya-hwon/k9s/issues/889) Disable readOnly config
+* [Issue #564](https://github.com/Ya-hwon/k9s/issues/564) Invert filter mode on logs
 
 ## Resolved PRs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

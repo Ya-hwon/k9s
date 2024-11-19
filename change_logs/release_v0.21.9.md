@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.21.9
 
@@ -31,11 +31,11 @@ Contrarily to popular belief, OSS is not free! We've now reached ~9k stars and 3
 
 ## Resolved Issues/Features
 
-* [Issue #871](https://github.com/derailed/k9s/issues/871) K9s memory leak when shell that launched k9s is terminated (With feeling!)
-* [Issue #849](https://github.com/derailed/k9s/issues/849) Xray highlight color (with feeling!)
+* [Issue #871](https://github.com/Ya-hwon/k9s/issues/871) K9s memory leak when shell that launched k9s is terminated (With feeling!)
+* [Issue #849](https://github.com/Ya-hwon/k9s/issues/849) Xray highlight color (with feeling!)
 
 ## Resolved PRs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

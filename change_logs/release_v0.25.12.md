@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.25.12
 
@@ -43,12 +43,12 @@ Hoy! end of year is... sucking! Feeling the burn ;( Apologies for the disruption
 
 ## Resolved Issues
 
-* [Issue #1378](https://github.com/derailed/k9s/issues/1378) Regression: Namespace filters are no longer applied on startup
-* [Issue #1376](https://github.com/derailed/k9s/issues/1376) Events not sorted correctly by dates
-* [Issue #1375](https://github.com/derailed/k9s/issues/1375) Unable to show port forwards
-* [Issue #1374](https://github.com/derailed/k9s/issues/1374) --all-namespaces does not work v0.25.10
-* [Issue #1373](https://github.com/derailed/k9s/issues/1373) change namespace not possible
+* [Issue #1378](https://github.com/Ya-hwon/k9s/issues/1378) Regression: Namespace filters are no longer applied on startup
+* [Issue #1376](https://github.com/Ya-hwon/k9s/issues/1376) Events not sorted correctly by dates
+* [Issue #1375](https://github.com/Ya-hwon/k9s/issues/1375) Unable to show port forwards
+* [Issue #1374](https://github.com/Ya-hwon/k9s/issues/1374) --all-namespaces does not work v0.25.10
+* [Issue #1373](https://github.com/Ya-hwon/k9s/issues/1373) change namespace not possible
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

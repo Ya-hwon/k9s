@@ -10,13 +10,13 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config/data"
+	"github.com/Ya-hwon/k9s/internal/config/data"
 	"k8s.io/client-go/tools/clientcmd/api"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/color"
+	"github.com/Ya-hwon/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/view"
 	"github.com/mattn/go-colorable"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"

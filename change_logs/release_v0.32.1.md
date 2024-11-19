@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.32.1
 
@@ -35,8 +35,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2584](https://github.com/derailed/k9s/issues/2584) Transfer of file doesn't detect corruption
-* [#2579](https://github.com/derailed/k9s/issues/2579) Default sorting behavior changed to descending sort bug
+* [#2584](https://github.com/Ya-hwon/k9s/issues/2584) Transfer of file doesn't detect corruption
+* [#2579](https://github.com/Ya-hwon/k9s/issues/2579) Default sorting behavior changed to descending sort bug
 
 ---
 
@@ -44,8 +44,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2586](https://github.com/derailed/k9s/pull/2586) Properly initialize key actions in picker
+* [#2586](https://github.com/Ya-hwon/k9s/pull/2586) Properly initialize key actions in picker
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

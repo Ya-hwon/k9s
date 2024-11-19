@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.21.10
 
@@ -37,14 +37,14 @@ k9s:
 
 ## Resolved Issues/Features
 
-* [Issue #874](https://github.com/derailed/k9s/issues/874) Latest version broke selecting text by mouse
+* [Issue #874](https://github.com/Ya-hwon/k9s/issues/874) Latest version broke selecting text by mouse
 
 ## Resolved PRs
 
-* [PR #877](https://github.com/derailed/k9s/pull/877) Change character used for X in RBAC view. Thank you! [Torjus](https://github.com/torjue)
-* [PR #876](https://github.com/derailed/k9s/pull/876) Migrate to new sortorder import path. Big thanks to [fbbommel](https://github.com/fvbommel)
-* [PR #873](https://github.com/derailed/k9s/pull/873) Fix default logger config, same as README. Thank you! [darklore](https://github.com/darklore)
+* [PR #877](https://github.com/Ya-hwon/k9s/pull/877) Change character used for X in RBAC view. Thank you! [Torjus](https://github.com/torjue)
+* [PR #876](https://github.com/Ya-hwon/k9s/pull/876) Migrate to new sortorder import path. Big thanks to [fbbommel](https://github.com/fvbommel)
+* [PR #873](https://github.com/Ya-hwon/k9s/pull/873) Fix default logger config, same as README. Thank you! [darklore](https://github.com/darklore)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

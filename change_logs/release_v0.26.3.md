@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.26.3
 
@@ -18,8 +18,8 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues (Wishfully...)
 
-* [Issue #1690](https://github.com/derailed/k9s/issues/1690) 0.26.1 stuck after exit from container shell, panels refreshed but arrow keys not works windows 10.
+* [Issue #1690](https://github.com/Ya-hwon/k9s/issues/1690) 0.26.1 stuck after exit from container shell, panels refreshed but arrow keys not works windows 10.
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2022 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2022 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.13.6
 
@@ -50,10 +50,10 @@ plugin:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #507](https://github.com/derailed/k9s/issues/507)
-* [PR #510](https://github.com/derailed/k9s/pull/510) Thank you!! [Vimal Kumar](https://github.com/vimalk78)
-* [PR #340](https://github.com/derailed/k9s/pull/340) ATTA Boy! [Tuomo Syvänperä](https://github.com/syvanpera)
+* [Issue #507](https://github.com/Ya-hwon/k9s/issues/507)
+* [PR #510](https://github.com/Ya-hwon/k9s/pull/510) Thank you!! [Vimal Kumar](https://github.com/vimalk78)
+* [PR #340](https://github.com/Ya-hwon/k9s/pull/340) ATTA Boy! [Tuomo Syvänperä](https://github.com/syvanpera)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

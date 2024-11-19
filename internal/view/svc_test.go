@@ -6,9 +6,9 @@ package view_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/dao"
+	"github.com/Ya-hwon/k9s/internal/view"
 	"github.com/stretchr/testify/assert"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

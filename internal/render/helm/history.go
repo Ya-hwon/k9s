@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/model1"
+	"github.com/Ya-hwon/k9s/internal/render"
 )
 
 // History renders a History chart to screen.

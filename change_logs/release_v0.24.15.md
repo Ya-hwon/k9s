@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.24.15
 
@@ -45,20 +45,20 @@ Please join me in giving a Big Thank you! to [Arthur](https://github.com/pysen) 
 
 ## Resolved Issues
 
-* [Issue #1209](https://github.com/derailed/k9s/issues/1209) K9s - Popeye run instructions
-* [Issue #1203](https://github.com/derailed/k9s/issues/1203) K9s does not remember last view I was in when switching contexts
-* [Issue #1181](https://github.com/derailed/k9s/issues/1181) Cannot list roles
+* [Issue #1209](https://github.com/Ya-hwon/k9s/issues/1209) K9s - Popeye run instructions
+* [Issue #1203](https://github.com/Ya-hwon/k9s/issues/1203) K9s does not remember last view I was in when switching contexts
+* [Issue #1181](https://github.com/Ya-hwon/k9s/issues/1181) Cannot list roles
 
 ---
 
 ## PRs
 
-* [PR #1213](https://github.com/derailed/k9s/pull/1213) Big Thanks to [Takumasa Sakao](https://github.com/sachaos)!
-* [PR #1205](https://github.com/derailed/k9s/pull/1205) Great catch from [David Alger](https://github.com/davidalger)!
-* [PR #1198](https://github.com/derailed/k9s/pull/1198) Once again [Takumasa Sakao](https://github.com/sachaos) to the rescue!!
-* [PR #1196](https://github.com/derailed/k9s/pull/1196) ATTA Boy! [Daniel Lee Harple](https://github.com/dlh)
-* [PR #1025](https://github.com/derailed/k9s/pull/1025) Big Thanks to [Arthur](https://github.com/pysen)
+* [PR #1213](https://github.com/Ya-hwon/k9s/pull/1213) Big Thanks to [Takumasa Sakao](https://github.com/sachaos)!
+* [PR #1205](https://github.com/Ya-hwon/k9s/pull/1205) Great catch from [David Alger](https://github.com/davidalger)!
+* [PR #1198](https://github.com/Ya-hwon/k9s/pull/1198) Once again [Takumasa Sakao](https://github.com/sachaos) to the rescue!!
+* [PR #1196](https://github.com/Ya-hwon/k9s/pull/1196) ATTA Boy! [Daniel Lee Harple](https://github.com/dlh)
+* [PR #1025](https://github.com/Ya-hwon/k9s/pull/1025) Big Thanks to [Arthur](https://github.com/pysen)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.11.3
 
@@ -10,7 +10,7 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_helm.png" align="center" width="300" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_helm.png" align="center" width="300" height="auto"/>
 
 Maintenance Release!
 
@@ -26,9 +26,9 @@ Thanks Chris! Was up all night trying to figure out and what was the deal with K
 
 ## Resolved Bugs/Features
 
-* [Issue #475](https://github.com/derailed/k9s/issues/475)
-* [Issue #473](https://github.com/derailed/k9s/issues/473)
+* [Issue #475](https://github.com/Ya-hwon/k9s/issues/475)
+* [Issue #473](https://github.com/Ya-hwon/k9s/issues/473)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

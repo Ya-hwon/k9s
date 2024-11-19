@@ -7,8 +7,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/config/mock"
+	"github.com/Ya-hwon/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/config/mock"
 	"github.com/stretchr/testify/assert"
 )
 

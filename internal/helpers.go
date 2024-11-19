@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/derailed/k9s/internal/view/cmd"
+	"github.com/Ya-hwon/k9s/internal/view/cmd"
 )
 
 var (

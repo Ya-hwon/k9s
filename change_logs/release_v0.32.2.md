@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.32.2
 
@@ -35,9 +35,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2582](https://github.com/derailed/k9s/issues/2582) Slowness due to client-side throttling in v0.32.0  (Maybe??)
-* [#2593](https://github.com/derailed/k9s/issues/2593) Popeye not working in 0.32.X
+* [#2582](https://github.com/Ya-hwon/k9s/issues/2582) Slowness due to client-side throttling in v0.32.0  (Maybe??)
+* [#2593](https://github.com/Ya-hwon/k9s/issues/2593) Popeye not working in 0.32.X
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

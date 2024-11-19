@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.21.0
 
@@ -34,13 +34,13 @@ How cool is that?
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #778](https://github.com/derailed/k9s/issues/778)
-* [Issue #774](https://github.com/derailed/k9s/issues/774)
-* [Issue #761](https://github.com/derailed/k9s/issues/761)
-* [Issue #759](https://github.com/derailed/k9s/issues/759)
-* [Issue #758](https://github.com/derailed/k9s/issues/758)
-* [PR #746](https://github.com/derailed/k9s/pull/746) Big Thanks to [Groselt](https://github.com/groselt)!
+* [Issue #778](https://github.com/Ya-hwon/k9s/issues/778)
+* [Issue #774](https://github.com/Ya-hwon/k9s/issues/774)
+* [Issue #761](https://github.com/Ya-hwon/k9s/issues/761)
+* [Issue #759](https://github.com/Ya-hwon/k9s/issues/759)
+* [Issue #758](https://github.com/Ya-hwon/k9s/issues/758)
+* [PR #746](https://github.com/Ya-hwon/k9s/pull/746) Big Thanks to [Groselt](https://github.com/groselt)!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

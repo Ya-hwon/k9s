@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.4.7
 
@@ -36,9 +36,9 @@ Let us know if you dig it? And share your before/after clusters scores!
 
 ## Resolved Bugs
 
-+ Great find! Thank you @swe-covis! Moved alias view to `Ctrl-A` [Issue #156](https://github.com/derailed/k9s/issues/156)
-+ Added toggle autoscroll via `s` key [Issue #155](https://github.com/derailed/k9s/issues/155)
++ Great find! Thank you @swe-covis! Moved alias view to `Ctrl-A` [Issue #156](https://github.com/Ya-hwon/k9s/issues/156)
++ Added toggle autoscroll via `s` key [Issue #155](https://github.com/Ya-hwon/k9s/issues/155)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

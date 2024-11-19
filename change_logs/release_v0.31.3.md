@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.31.3
 
@@ -42,11 +42,11 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2459](https://github.com/derailed/k9s/issues/2459) No permission to see deployments/statefulsets even though I have them
-* [#2458](https://github.com/derailed/k9s/issues/2458) panic on run without current context
-* [#2454](https://github.com/derailed/k9s/issues/2454) Invoking K9s ends in panic question
-* [#2435](https://github.com/derailed/k9s/issues/2435) "yaml: line 15: could not find expected ':'" error bug question (May be??)
+* [#2459](https://github.com/Ya-hwon/k9s/issues/2459) No permission to see deployments/statefulsets even though I have them
+* [#2458](https://github.com/Ya-hwon/k9s/issues/2458) panic on run without current context
+* [#2454](https://github.com/Ya-hwon/k9s/issues/2454) Invoking K9s ends in panic question
+* [#2435](https://github.com/Ya-hwon/k9s/issues/2435) "yaml: line 15: could not find expected ':'" error bug question (May be??)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

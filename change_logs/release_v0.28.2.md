@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.28.2
 
@@ -42,10 +42,10 @@ In this drop, we introduce a new command `sanitize` aka `z` available on pod vie
 
 ## Resolved Issues
 
-* [Issue #2281](https://github.com/derailed/k9s/issues/2281) Can't run Node shell
-* [Issue #2277](https://github.com/derailed/k9s/issues/2277) bulk actions applied to power filters
-* [Issue #2273](https://github.com/derailed/k9s/issues/2273) Error when draining node that is cordoned bug
-* [Issue #2233](https://github.com/derailed/k9s/issues/2233) Invalid port-forwarding status displayed over the k9s UI
+* [Issue #2281](https://github.com/Ya-hwon/k9s/issues/2281) Can't run Node shell
+* [Issue #2277](https://github.com/Ya-hwon/k9s/issues/2277) bulk actions applied to power filters
+* [Issue #2273](https://github.com/Ya-hwon/k9s/issues/2273) Error when draining node that is cordoned bug
+* [Issue #2233](https://github.com/Ya-hwon/k9s/issues/2233) Invalid port-forwarding status displayed over the k9s UI
 
 ---
 
@@ -53,11 +53,11 @@ In this drop, we introduce a new command `sanitize` aka `z` available on pod vie
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [PR #2280](https://github.com/derailed/k9s/pull/2280) chore: replace github.com/ghodss/yaml with sigs.k8s.
-* [PR #2278](https://github.com/derailed/k9s/pull/2278) README.md: fix typo in netshoot URL
-* [PR #2275](https://github.com/derailed/k9s/pull/2275) check if the Node already cordoned when executing Drain
-* [PR #2247](https://github.com/derailed/k9s/pull/2247) Delete port forwards when pods get deleted
+* [PR #2280](https://github.com/Ya-hwon/k9s/pull/2280) chore: replace github.com/ghodss/yaml with sigs.k8s.
+* [PR #2278](https://github.com/Ya-hwon/k9s/pull/2278) README.md: fix typo in netshoot URL
+* [PR #2275](https://github.com/Ya-hwon/k9s/pull/2275) check if the Node already cordoned when executing Drain
+* [PR #2247](https://github.com/Ya-hwon/k9s/pull/2247) Delete port forwards when pods get deleted
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

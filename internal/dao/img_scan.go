@@ -7,10 +7,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/vul"
+	"github.com/Ya-hwon/k9s/internal"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal/vul"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

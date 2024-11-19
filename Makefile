@@ -12,7 +12,7 @@ else
 DATE       ?= $(shell date -u -d @${SOURCE_DATE_EPOCH} +"%Y-%m-%dT%H:%M:%SZ")
 endif
 VERSION    ?= v0.32.7
-IMG_NAME   := derailed/k9s
+IMG_NAME   := Ya-hwon/k9s
 IMAGE      := ${IMG_NAME}:${VERSION}
 
 default: help

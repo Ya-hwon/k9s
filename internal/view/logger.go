@@ -6,9 +6,9 @@ package view
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/model"
+	"github.com/Ya-hwon/k9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 	"github.com/derailed/tview"
 )

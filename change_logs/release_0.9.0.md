@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.9.0
 
@@ -91,13 +91,13 @@ Added support for StorageClass, you can now view this resource and describe it d
 
 ## Resolved Bugs/Features
 
-* [Issue #318](https://github.com/derailed/k9s/issues/318)
-* [Issue #303](https://github.com/derailed/k9s/issues/303)
-* [Issue #301](https://github.com/derailed/k9s/issues/301)
-* [Issue #300](https://github.com/derailed/k9s/issues/300)
-* [Issue #276](https://github.com/derailed/k9s/issues/276)
-* [Issue #268](https://github.com/derailed/k9s/issues/268)
+* [Issue #318](https://github.com/Ya-hwon/k9s/issues/318)
+* [Issue #303](https://github.com/Ya-hwon/k9s/issues/303)
+* [Issue #301](https://github.com/Ya-hwon/k9s/issues/301)
+* [Issue #300](https://github.com/Ya-hwon/k9s/issues/300)
+* [Issue #276](https://github.com/Ya-hwon/k9s/issues/276)
+* [Issue #268](https://github.com/Ya-hwon/k9s/issues/268)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

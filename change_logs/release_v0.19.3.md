@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.19.3
 
@@ -59,12 +59,12 @@ As you may know K9s currently uses your `EDITOR` env var to launch an editor whi
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #669](https://github.com/derailed/k9s/issues/669)
-* [Issue #677](https://github.com/derailed/k9s/issues/677)
-* [Issue #673](https://github.com/derailed/k9s/issues/673)
-* [Issue #671](https://github.com/derailed/k9s/issues/671)
-* [Issue #670](https://github.com/derailed/k9s/issues/670)
+* [Issue #669](https://github.com/Ya-hwon/k9s/issues/669)
+* [Issue #677](https://github.com/Ya-hwon/k9s/issues/677)
+* [Issue #673](https://github.com/Ya-hwon/k9s/issues/673)
+* [Issue #671](https://github.com/Ya-hwon/k9s/issues/671)
+* [Issue #670](https://github.com/Ya-hwon/k9s/issues/670)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

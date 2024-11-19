@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
 
 # Release v0.30.2
 
@@ -76,11 +76,11 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2374](https://github.com/derailed/k9s/issues/2374) The headless parameter does not function properly (v0.30.1)
-* [#2372](https://github.com/derailed/k9s/issues/2372) Unable to set default resource to load (v0.30.1)
-* [#2371](https://github.com/derailed/k9s/issues/2371) --write cli option does not work (0.30.X)
-* [#2370](https://github.com/derailed/k9s/issues/2370) Wrong list of pods on node (0.30.X)
-* [#2362](https://github.com/derailed/k9s/issues/2362) blackList: Use inclusive language alternatives
+* [#2374](https://github.com/Ya-hwon/k9s/issues/2374) The headless parameter does not function properly (v0.30.1)
+* [#2372](https://github.com/Ya-hwon/k9s/issues/2372) Unable to set default resource to load (v0.30.1)
+* [#2371](https://github.com/Ya-hwon/k9s/issues/2371) --write cli option does not work (0.30.X)
+* [#2370](https://github.com/Ya-hwon/k9s/issues/2370) Wrong list of pods on node (0.30.X)
+* [#2362](https://github.com/Ya-hwon/k9s/issues/2362) blackList: Use inclusive language alternatives
 
 ---
 
@@ -88,9 +88,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2375](https://github.com/derailed/k9s/pull/2375) get node filtering params from matching context values
-* [#2373](https://github.com/derailed/k9s/pull/2373) fix command line flags not working
+* [#2375](https://github.com/Ya-hwon/k9s/pull/2375) get node filtering params from matching context values
+* [#2373](https://github.com/Ya-hwon/k9s/pull/2373) fix command line flags not working
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

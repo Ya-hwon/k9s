@@ -12,16 +12,16 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/config"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/dao"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/util/cache"
 )
 
 const (
-	k9sGitURL       = "https://api.github.com/repos/derailed/k9s/releases/latest"
+	k9sGitURL       = "https://api.github.com/repos/Ya-hwon/k9s/releases/latest"
 	cacheSize       = 10
 	cacheExpiry     = 1 * time.Hour
 	k9sLatestRevKey = "k9sRev"

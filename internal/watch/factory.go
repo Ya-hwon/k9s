@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/client"
 	"github.com/rs/zerolog/log"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

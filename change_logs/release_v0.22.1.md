@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.22.1
 
@@ -16,12 +16,12 @@ Maintenance Release!
 
 ## Resolved Issues/Features
 
-* [Issue #882](https://github.com/derailed/k9s/issues/882) After filtering objects cannot enter them anymore
-* [Issue #881](https://github.com/derailed/k9s/issues/881) CPU limit percentage in pod view counts containers without limits
-* [Issue #880](https://github.com/derailed/k9s/issues/880) filtering/search doesn't take all columns into account anymore
+* [Issue #882](https://github.com/Ya-hwon/k9s/issues/882) After filtering objects cannot enter them anymore
+* [Issue #881](https://github.com/Ya-hwon/k9s/issues/881) CPU limit percentage in pod view counts containers without limits
+* [Issue #880](https://github.com/Ya-hwon/k9s/issues/880) filtering/search doesn't take all columns into account anymore
 
 ## Resolved PRs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

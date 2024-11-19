@@ -7,11 +7,11 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/dao"
+	"github.com/Ya-hwon/k9s/internal/render"
 	"github.com/stretchr/testify/assert"
 )
 

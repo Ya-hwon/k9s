@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.31.5
 
@@ -43,9 +43,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2466](https://github.com/derailed/k9s/issues/2466) Panic: index out of range [0] with length 0
-* [#2465](https://github.com/derailed/k9s/issues/2465) v0.31.4 - panic; no client connection detected - with feelings!!
+* [#2466](https://github.com/Ya-hwon/k9s/issues/2466) Panic: index out of range [0] with length 0
+* [#2465](https://github.com/Ya-hwon/k9s/issues/2465) v0.31.4 - panic; no client connection detected - with feelings!!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

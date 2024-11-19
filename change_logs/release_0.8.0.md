@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.8.0
 
@@ -102,15 +102,15 @@ Many thanks to all of you for your time, ideas, contributions and support!!
 
 ## Resolved Bugs/Features
 
-+ [Issue #274](https://github.com/derailed/k9s/issues/274)
-+ [Issue #273](https://github.com/derailed/k9s/issues/273)
-+ [Issue #272](https://github.com/derailed/k9s/issues/272)
-+ [Issue #271](https://github.com/derailed/k9s/issues/271)
-+ [Issue #267](https://github.com/derailed/k9s/issues/267)
-+ [Issue #247](https://github.com/derailed/k9s/issues/247)
-+ [Issue #203](https://github.com/derailed/k9s/issues/203)
-+ [Issue #12](https://github.com/derailed/k9s/issues/12) Thank you Nathan!!
++ [Issue #274](https://github.com/Ya-hwon/k9s/issues/274)
++ [Issue #273](https://github.com/Ya-hwon/k9s/issues/273)
++ [Issue #272](https://github.com/Ya-hwon/k9s/issues/272)
++ [Issue #271](https://github.com/Ya-hwon/k9s/issues/271)
++ [Issue #267](https://github.com/Ya-hwon/k9s/issues/267)
++ [Issue #247](https://github.com/Ya-hwon/k9s/issues/247)
++ [Issue #203](https://github.com/Ya-hwon/k9s/issues/203)
++ [Issue #12](https://github.com/Ya-hwon/k9s/issues/12) Thank you Nathan!!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

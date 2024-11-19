@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.8.1
 
@@ -45,11 +45,11 @@ Some folks correctly pointed out the issue with the `Alt-XXX`. Totally my bad as
 
 ## Resolved Bugs/Features
 
-+ [Issue #286](https://github.com/derailed/k9s/issues/286)
-+ [Issue #285](https://github.com/derailed/k9s/issues/285)
-+ [Issue #270](https://github.com/derailed/k9s/issues/270)
-+ [Issue #223](https://github.com/derailed/k9s/issues/223)
++ [Issue #286](https://github.com/Ya-hwon/k9s/issues/286)
++ [Issue #285](https://github.com/Ya-hwon/k9s/issues/285)
++ [Issue #270](https://github.com/Ya-hwon/k9s/issues/270)
++ [Issue #223](https://github.com/Ya-hwon/k9s/issues/223)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

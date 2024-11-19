@@ -13,14 +13,14 @@ import (
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/health"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/tchart"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/health"
+	"github.com/Ya-hwon/k9s/internal/model"
+	"github.com/Ya-hwon/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal/tchart"
+	"github.com/Ya-hwon/k9s/internal/ui"
 )
 
 // Graphable represents a graphic component.

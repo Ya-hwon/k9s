@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.17.6
 
@@ -21,13 +21,13 @@ As of this drop, you can now perform direct cluster nodes maintenance by leverag
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #612](https://github.com/derailed/k9s/issues/612)
-- [Issue #608](https://github.com/derailed/k9s/issues/608)
-- [Issue #606](https://github.com/derailed/k9s/issues/606)
-- [Issue #237](https://github.com/derailed/k9s/issues/237)
-- [PR #607](https://github.com/derailed/k9s/pull/607) ATTA Boy! [Jeff Widman](https://github.com/jeffwidman)
-- [PR #570](https://github.com/derailed/k9s/pull/570) Thank you [Ludovico Rosso](https://github.com/ludusrusso)!
+- [Issue #612](https://github.com/Ya-hwon/k9s/issues/612)
+- [Issue #608](https://github.com/Ya-hwon/k9s/issues/608)
+- [Issue #606](https://github.com/Ya-hwon/k9s/issues/606)
+- [Issue #237](https://github.com/Ya-hwon/k9s/issues/237)
+- [PR #607](https://github.com/Ya-hwon/k9s/pull/607) ATTA Boy! [Jeff Widman](https://github.com/jeffwidman)
+- [PR #570](https://github.com/Ya-hwon/k9s/pull/570) Thank you [Ludovico Rosso](https://github.com/ludusrusso)!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

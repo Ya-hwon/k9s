@@ -6,9 +6,9 @@ package view
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/dao"
+	"github.com/Ya-hwon/k9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 	"github.com/derailed/tview"
 )

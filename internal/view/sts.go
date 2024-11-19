@@ -6,9 +6,9 @@ package view
 import (
 	"errors"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/dao"
+	"github.com/Ya-hwon/k9s/internal/ui"
 	appsv1 "k8s.io/api/apps/v1"
 )
 

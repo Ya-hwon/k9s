@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.13.8
 
@@ -20,11 +20,11 @@ WOOT!! Big Thank you to [Mark Baumann](https://github.com/mtreeman) for your con
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #523](https://github.com/derailed/k9s/issues/523)
-* [Issue #522](https://github.com/derailed/k9s/issues/522)
-* [Issue #521](https://github.com/derailed/k9s/issues/521)
-* [PR #524](https://github.com/derailed/k9s/pull/524) Big Thanks!! [Joscha](https://github.com/joscha-alisch)
+* [Issue #523](https://github.com/Ya-hwon/k9s/issues/523)
+* [Issue #522](https://github.com/Ya-hwon/k9s/issues/522)
+* [Issue #521](https://github.com/Ya-hwon/k9s/issues/521)
+* [PR #524](https://github.com/Ya-hwon/k9s/pull/524) Big Thanks!! [Joscha](https://github.com/joscha-alisch)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

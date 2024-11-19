@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.7.0
 
@@ -48,14 +48,14 @@ Please keep in mind, this is very much a moving target at this point and will ch
 
 ## Resolved Bugs/Features
 
-+ [Issue #198](https://github.com/derailed/k9s/issues/198)
-+ [Issue #197](https://github.com/derailed/k9s/issues/197)
-+ [Issue #195](https://github.com/derailed/k9s/issues/195) Thanks to the awesome [Sebastiaan](https://github.com/tammert). You Rock Sir!!
-+ [Issue #194](https://github.com/derailed/k9s/issues/194)
-+ [Issue #187](https://github.com/derailed/k9s/issues/187)
-+ [Issue #119](https://github.com/derailed/k9s/issues/119) Added `Ctrl-S` shortcut to dump table data as csv and log data as text.
-+ [Issue #69](https://github.com/derailed/k9s/issues/69)
++ [Issue #198](https://github.com/Ya-hwon/k9s/issues/198)
++ [Issue #197](https://github.com/Ya-hwon/k9s/issues/197)
++ [Issue #195](https://github.com/Ya-hwon/k9s/issues/195) Thanks to the awesome [Sebastiaan](https://github.com/tammert). You Rock Sir!!
++ [Issue #194](https://github.com/Ya-hwon/k9s/issues/194)
++ [Issue #187](https://github.com/Ya-hwon/k9s/issues/187)
++ [Issue #119](https://github.com/Ya-hwon/k9s/issues/119) Added `Ctrl-S` shortcut to dump table data as csv and log data as text.
++ [Issue #69](https://github.com/Ya-hwon/k9s/issues/69)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

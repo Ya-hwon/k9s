@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.24.4
 
@@ -37,11 +37,11 @@ If you would like to support us, you can either join our github sponsors or purc
 
 ## Resolved Issues
 
-* [Issue #1056](https://github.com/derailed/k9s/issues/1056) K9s hangs on edits
-* [Issue #1024](https://github.com/derailed/k9s/issues/1024) Add Pod Readiness/Nominated cols. With feelings!
+* [Issue #1056](https://github.com/Ya-hwon/k9s/issues/1056) K9s hangs on edits
+* [Issue #1024](https://github.com/Ya-hwon/k9s/issues/1024) Add Pod Readiness/Nominated cols. With feelings!
 
 ## Resolved PRs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

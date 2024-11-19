@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/config/data"
+	"github.com/Ya-hwon/k9s/internal/model1"
+	"github.com/Ya-hwon/k9s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.31.9
 
@@ -77,11 +77,11 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [#2540](https://github.com/derailed/k9s/issues/2540) Option --write not functional
-* [#2538](https://github.com/derailed/k9s/issues/2538) Opening screen dumps (sd) in K9s results in Failed to launch editor error message
-* [#2536](https://github.com/derailed/k9s/issues/2536) Recent namespaces are lost when changing context
-* [#2535](https://github.com/derailed/k9s/issues/2535) Namespaced configmap edit fails for user with RoleBinding to a role that allows it
-* [#2532](https://github.com/derailed/k9s/issues/2532) Sporadic crashes (Maybe??)
+* [#2540](https://github.com/Ya-hwon/k9s/issues/2540) Option --write not functional
+* [#2538](https://github.com/Ya-hwon/k9s/issues/2538) Opening screen dumps (sd) in K9s results in Failed to launch editor error message
+* [#2536](https://github.com/Ya-hwon/k9s/issues/2536) Recent namespaces are lost when changing context
+* [#2535](https://github.com/Ya-hwon/k9s/issues/2535) Namespaced configmap edit fails for user with RoleBinding to a role that allows it
+* [#2532](https://github.com/Ya-hwon/k9s/issues/2532) Sporadic crashes (Maybe??)
 
 ---
 
@@ -89,10 +89,10 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2541](https://github.com/derailed/k9s/pull/2541) Add Rose Pine moon and dawn variants to skins
-* [#2531](https://github.com/derailed/k9s/pull/2531) fix the --write flag
-* [#2516](https://github.com/derailed/k9s/pull/2516) Added defaultsToFullScreen flag for Live/Details view,logs
+* [#2541](https://github.com/Ya-hwon/k9s/pull/2541) Add Rose Pine moon and dawn variants to skins
+* [#2531](https://github.com/Ya-hwon/k9s/pull/2531) fix the --write flag
+* [#2516](https://github.com/Ya-hwon/k9s/pull/2516) Added defaultsToFullScreen flag for Live/Details view,logs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

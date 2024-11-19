@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.4.5
 
@@ -20,7 +20,7 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ### Multi containers
 
-  There was an [issue](https://github.com/derailed/k9s/issues/135) where we ran into limitations with the container
+  There was an [issue](https://github.com/Ya-hwon/k9s/issues/135) where we ran into limitations with the container
   selection keyboard shortcuts only allowing up to 10 containers. In this release, we've changed to a pick list vs the menu
   to select containers for both shell and logs access. This gives K9s the ability to select up to 26 containers now. This
   is not in any way an *encouragement* to have so many containers per pods!!
@@ -35,8 +35,8 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs
 
-+ [Issue #152](https://github.com/derailed/k9s/issues/152)
++ [Issue #152](https://github.com/Ya-hwon/k9s/issues/152)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

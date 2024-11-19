@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.24.2
 
@@ -44,7 +44,7 @@ As you all know, K9s is a complex tool in a continually evolving space and we fi
 
 To this end, I'd like to introduce a new member of the K9s pack, the main dog, aka `k9sAlpha`. This is going to be a licensed version of K9s. The current plan is to offer a tiered license scheme starting at `$10/month` for a license. K9s𝞪 will provide fixes, enhancements, further integrations and a bunch of new features that have been sitting in the back burner...
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9salpha.png" align="center" width="300" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9salpha.png" align="center" width="300" height="auto"/>
 
 ### So what does this entail?
 
@@ -81,17 +81,17 @@ By all means, this is a democracy and not a dictatorship! So... if you have bett
 
 ## Resolved Issues/Features
 
-* [Issue #972](https://github.com/derailed/k9s/issues/972) Default color is no longer transparent.
-* [Issue #933](https://github.com/derailed/k9s/issues/933) Unable to cordon node.
+* [Issue #972](https://github.com/Ya-hwon/k9s/issues/972) Default color is no longer transparent.
+* [Issue #933](https://github.com/Ya-hwon/k9s/issues/933) Unable to cordon node.
 
 ## Resolved PRs
 
-* [PR #982](https://github.com/derailed/k9s/pull/982) Fix typo
-* [PR #976](https://github.com/derailed/k9s/pull/976) Add OneDark color theme
-* [PR #975](https://github.com/derailed/k9s/pull/982) Handling non json lines as raw with red color
+* [PR #982](https://github.com/Ya-hwon/k9s/pull/982) Fix typo
+* [PR #976](https://github.com/Ya-hwon/k9s/pull/976) Add OneDark color theme
+* [PR #975](https://github.com/Ya-hwon/k9s/pull/982) Handling non json lines as raw with red color
 * [PR #968](https://github.com/dserailed/k9s/pull/968) Disable filtering on help screen ... and broke the build ;)
-* [PR #960](https://github.com/derailed/k9s/pull/960) Handle empty port list in PortForward view
+* [PR #960](https://github.com/Ya-hwon/k9s/pull/960) Handle empty port list in PortForward view
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

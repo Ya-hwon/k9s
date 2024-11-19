@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.19.1
 
@@ -22,9 +22,9 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #649](https://github.com/derailed/k9s/issues/649)
-* [PR #638](https://github.com/derailed/k9s/pull/638) Thank you! [Shang Yuanchun](https://github.com/ideal)
+* [Issue #649](https://github.com/Ya-hwon/k9s/issues/649)
+* [PR #638](https://github.com/Ya-hwon/k9s/pull/638) Thank you! [Shang Yuanchun](https://github.com/ideal)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

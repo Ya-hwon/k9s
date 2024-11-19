@@ -6,8 +6,8 @@ package render_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal/model1"
+	"github.com/Ya-hwon/k9s/internal/render"
 	"github.com/stretchr/testify/assert"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	mv1beta1 "k8s.io/metrics/pkg/apis/metrics/v1beta1"

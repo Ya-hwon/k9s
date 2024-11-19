@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.14.0
 
@@ -52,16 +52,16 @@ More bugz...😿
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #536](https://github.com/derailed/k9s/issues/536)
-* [Issue #526](https://github.com/derailed/k9s/issues/526)
-* [Issue #464](https://github.com/derailed/k9s/issues/464)
+* [Issue #536](https://github.com/Ya-hwon/k9s/issues/536)
+* [Issue #526](https://github.com/Ya-hwon/k9s/issues/526)
+* [Issue #464](https://github.com/Ya-hwon/k9s/issues/464)
 
-* [PR #532](https://github.com/derailed/k9s/pull/532) Thank you!! [Joscha Alisch](https://github.com/joscha-alisch)
-* [PR #525](https://github.com/derailed/k9s/pull/525) Big Thanks!! [darklore](https://github.com/darklore)
-* [PR #524](https://github.com/derailed/k9s/pull/524) Thank you (Again)!! [Joscha Alisch](https://github.com/joscha-alisch)
-* [PR #514](https://github.com/derailed/k9s/pull/514) ATTA Boy!! [Alexander F. Rødseth](https://github.com/xyproto)
-* [PR #483](https://github.com/derailed/k9s/pull/483) Thank you!! [Paul Varache](https://github.com/paulvarache)
+* [PR #532](https://github.com/Ya-hwon/k9s/pull/532) Thank you!! [Joscha Alisch](https://github.com/joscha-alisch)
+* [PR #525](https://github.com/Ya-hwon/k9s/pull/525) Big Thanks!! [darklore](https://github.com/darklore)
+* [PR #524](https://github.com/Ya-hwon/k9s/pull/524) Thank you (Again)!! [Joscha Alisch](https://github.com/joscha-alisch)
+* [PR #514](https://github.com/Ya-hwon/k9s/pull/514) ATTA Boy!! [Alexander F. Rødseth](https://github.com/xyproto)
+* [PR #483](https://github.com/Ya-hwon/k9s/pull/483) Thank you!! [Paul Varache](https://github.com/paulvarache)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

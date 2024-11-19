@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/Ya-hwon/k9s/internal/model"
+	"github.com/Ya-hwon/k9s/internal/model1"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/config"
 	"github.com/fsnotify/fsnotify"
 	"github.com/rs/zerolog/log"
 )
