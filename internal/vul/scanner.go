@@ -27,7 +27,7 @@ import (
 	"github.com/anchore/grype/grype/store"
 	"github.com/anchore/grype/grype/vex"
 	"github.com/anchore/syft/syft"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/config"
 	"github.com/rs/zerolog/log"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

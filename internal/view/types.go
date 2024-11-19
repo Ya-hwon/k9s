@@ -6,10 +6,10 @@ package view
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/dao"
+	"github.com/Ya-hwon/k9s/internal/model"
+	"github.com/Ya-hwon/k9s/internal/ui"
 )
 
 const (

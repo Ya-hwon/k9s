@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.4.4
 
@@ -25,14 +25,14 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ### Container Logs
 
-  [Feature #147](https://github.com/derailed/k9s/issues/147). The default behavior was to pick the first available container. Which meant if the pod has an init container, the log view would choose that.
+  [Feature #147](https://github.com/Ya-hwon/k9s/issues/147). The default behavior was to pick the first available container. Which meant if the pod has an init container, the log view would choose that.
   The view will now choose the first non init container. Most likely it
   would be the wrong choice in pod's sidecar scenarios, but for the time
   being showing log on one of the init containers just did not make much sense. You can still pick other containers via the menu options. We will implement a better solution for this soon...
 
 ### Delete Dialog
 
-  [Feature #146](https://github.com/derailed/k9s/issues/146) Tx @dperique!
+  [Feature #146](https://github.com/Ya-hwon/k9s/issues/146) Tx @dperique!
   Pressing `<enter>` on the delete dialog would delete the resource. Now
   `cancel` is the default button. Hence you must use `<tab>` or `->` to
   select `OK` then press `<enter>` to delete.
@@ -45,4 +45,4 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
 
 # Release v0.30.5
 
@@ -34,9 +34,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2394](https://github.com/derailed/k9s/issues/2394) Allow setting custom log dir
-* [#2393](https://github.com/derailed/k9s/issues/2393) When switching contexts k9s does not switch to cluster's pod/namespaces/other k8s kinds view
-* [#2387](https://github.com/derailed/k9s/issues/2387) Invalid namespace xxx - with feelings!
+* [#2394](https://github.com/Ya-hwon/k9s/issues/2394) Allow setting custom log dir
+* [#2393](https://github.com/Ya-hwon/k9s/issues/2393) When switching contexts k9s does not switching to cluster's pod/namespaces/other k8s kinds view
+* [#2387](https://github.com/Ya-hwon/k9s/issues/2387) Invalid namespace xxx - with feelings!
 
 ---
 
@@ -44,9 +44,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2396](https://github.com/derailed/k9s/pull/2396) feat: allow to customize logs dir through environment variable
-* [#2395](https://github.com/derailed/k9s/pull/2395) fix: create user tmp directory before the app one
+* [#2396](https://github.com/Ya-hwon/k9s/pull/2396) feat: allow to customize logs dir through environment variable
+* [#2395](https://github.com/Ya-hwon/k9s/pull/2395) fix: create user tmp directory before the app one
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

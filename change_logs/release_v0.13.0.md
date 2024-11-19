@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.13.0
 
@@ -25,11 +25,11 @@ Big thanks in full effect to you all, I am so humbled and honored by your kind a
 
 Since we're in the thank you phase, might as well lasso in [Josh Symonds](https://github.com/Veraticus) for contributing the `Dracula` K9s skin that is now available in this repo under the skins directory. Here is a sneak peek of what K9s looks like under that skin. I am hopeful that like minded `graphically` inclined K9sers will contribute cool skins for this project for us to share/use in our Kubernetes clusters.
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/skins/dracula.png"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/skins/dracula.png"/>
 
 ### XRay Vision!
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_xray.png"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_xray.png"/>
 
 Since we've launched K9s, we've longed for a view that would display the relationships among resources. For instance, pods may reference configmaps/secrets directly via volumes or indirectly with containers referencing configmaps/secrets via say env vars. Having the ability to know which pods/deployments use a given configmap may involve some serious `kubectl` wizardry. K9s now has xray vision which allows one to view and traverse these relationships/associations as well as check for referential integrity.
 
@@ -67,11 +67,11 @@ It turns out the 'h' to toggle header was a bad move as it is use by the view na
 
 ## Resolved Bugs/Features
 
-* [Issue #494](https://github.com/derailed/k9s/issues/494)
-* [Issue #490](https://github.com/derailed/k9s/issues/490)
-* [Issue #488](https://github.com/derailed/k9s/issues/488)
-* [Issue #486](https://github.com/derailed/k9s/issues/486)
+* [Issue #494](https://github.com/Ya-hwon/k9s/issues/494)
+* [Issue #490](https://github.com/Ya-hwon/k9s/issues/490)
+* [Issue #488](https://github.com/Ya-hwon/k9s/issues/488)
+* [Issue #486](https://github.com/Ya-hwon/k9s/issues/486)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.25.1
 
@@ -19,10 +19,10 @@ May need a few rapid fires to regain some sanity so please bare with us and than
 
 ## Resolved Issues
 
-* [Issue #1308](https://github.com/derailed/k9s/issues/1308) Command auto-complete suggestions disappear after screen refresh interval #1308
-* [Issue #1307](https://github.com/derailed/k9s/issues/1307) Displayed Cluster name is always read from current-context
-* [Issue #1296](https://github.com/derailed/k9s/issues/1244) Scoobie-Doo was not a cow - NOTE: Switch to dialog to keep live context!
+* [Issue #1308](https://github.com/Ya-hwon/k9s/issues/1308) Command auto-complete suggestions disappear after screen refresh interval #1308
+* [Issue #1307](https://github.com/Ya-hwon/k9s/issues/1307) Displayed Cluster name is always read from current-contex
+* [Issue #1296](https://github.com/Ya-hwon/k9s/issues/1244) Scoobie doo was not a cow - NOTE: Switch to dialog to keep live context!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

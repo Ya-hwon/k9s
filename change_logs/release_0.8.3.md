@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.8.3
 
@@ -28,14 +28,14 @@ We've beefed up CRD support to allow users to navigate to the CRD instances view
 
 ## Resolved Bugs/Features
 
-+ CRD Navigation [Issue #295](https://github.com/derailed/k9s/issues/295)
-+ Terminal colors [Issue #294](https://github.com/derailed/k9s/issues/294)
-+ Help menu typo [Issue #291](https://github.com/derailed/k9s/issues/291)
-+ NetworkPolicy Support [Issue #289](https://github.com/derailed/k9s/issues/289)
-+ Scaling replicas start count [Issue #288](https://github.com/derailed/k9s/issues/288)
-+ CLI command arg support [Issue #283](https://github.com/derailed/k9s/issues/283)
-+ YAML screen dump support [Issue #275](https://github.com/derailed/k9s/issues/275)
++ CRD Navigation [Issue #295](https://github.com/Ya-hwon/k9s/issues/295)
++ Terminal colors [Issue #294](https://github.com/Ya-hwon/k9s/issues/294)
++ Help menu typo [Issue #291](https://github.com/Ya-hwon/k9s/issues/291)
++ NetworkPolicy Support [Issue #289](https://github.com/Ya-hwon/k9s/issues/289)
++ Scaling replicas start count [Issue #288](https://github.com/Ya-hwon/k9s/issues/288)
++ CLI command arg support [Issue #283](https://github.com/Ya-hwon/k9s/issues/283)
++ YAML screen dump support [Issue #275](https://github.com/Ya-hwon/k9s/issues/275)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

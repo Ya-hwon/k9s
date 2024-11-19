@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.24.5
 
@@ -26,13 +26,13 @@ If you would like to support us, you can either join our github sponsors or purc
 
 ## Resolved Issues
 
-* [Issue #1063](https://github.com/derailed/k9s/issues/1063) Weird colors on windows (Don't do windows so please help verify!)
-* [Issue #1061](https://github.com/derailed/k9s/issues/1061) Container shell Windows (Don't do windows so please help verify!)
-* [Issue #1059](https://github.com/derailed/k9s/issues/1059) Monokai skin broken\
-* [Issue #177](https://github.com/derailed/k9s/issues/177) Shell first character lost
+* [Issue #1063](https://github.com/Ya-hwon/k9s/issues/1063) Wierd colors on windows (Don't do windows so please help verify!)
+* [Issue #1061](https://github.com/Ya-hwon/k9s/issues/1061) Container shell Windows (Don't do windows so please help verify!)
+* [Issue #1059](https://github.com/Ya-hwon/k9s/issues/1059) Monokai skin broken\
+* [Issue #177](https://github.com/Ya-hwon/k9s/issues/177) Shell first character lost
 
 ## Resolved PRs
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

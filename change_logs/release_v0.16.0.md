@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.16.0
 
@@ -12,7 +12,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_doc.png" align="center"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_doc.png" align="center"/>
 
 This is one of these drops that may make you wonder if you'll go from zero to hero or likely the reverse?? Will see how this goes... Please proceed with caution on this one as there could very well be much disturbances in the force...
 
@@ -168,18 +168,18 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #557](https://github.com/derailed/k9s/issues/557)
-- [Issue #555](https://github.com/derailed/k9s/issues/555)
-- [Issue #554](https://github.com/derailed/k9s/issues/554)
-- [Issue #553](https://github.com/derailed/k9s/issues/553)
-- [Issue #552](https://github.com/derailed/k9s/issues/552)
-- [Issue #551](https://github.com/derailed/k9s/issues/551)
-- [Issue #549](https://github.com/derailed/k9s/issues/549) A start with pulses...
-- [Issue #540](https://github.com/derailed/k9s/issues/540)
-- [Issue #421](https://github.com/derailed/k9s/issues/421)
-- [Issue #351](https://github.com/derailed/k9s/issues/351) Solved by Pulses?
-- [Issue #25](https://github.com/derailed/k9s/issues/25) Pulses? Oldie but goodie!
+- [Issue #557](https://github.com/Ya-hwon/k9s/issues/557)
+- [Issue #555](https://github.com/Ya-hwon/k9s/issues/555)
+- [Issue #554](https://github.com/Ya-hwon/k9s/issues/554)
+- [Issue #553](https://github.com/Ya-hwon/k9s/issues/553)
+- [Issue #552](https://github.com/Ya-hwon/k9s/issues/552)
+- [Issue #551](https://github.com/Ya-hwon/k9s/issues/551)
+- [Issue #549](https://github.com/Ya-hwon/k9s/issues/549) A start with pulses...
+- [Issue #540](https://github.com/Ya-hwon/k9s/issues/540)
+- [Issue #421](https://github.com/Ya-hwon/k9s/issues/421)
+- [Issue #351](https://github.com/Ya-hwon/k9s/issues/351) Solved by Pulses?
+- [Issue #25](https://github.com/Ya-hwon/k9s/issues/25) Pulses? Oldie but goodie!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

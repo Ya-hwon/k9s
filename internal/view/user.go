@@ -8,9 +8,9 @@ import (
 
 	"github.com/derailed/tcell/v2"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/ui"
 )
 
 // User presents a user viewer.

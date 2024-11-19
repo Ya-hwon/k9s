@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.26.7
 
@@ -31,14 +31,14 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #1805](https://github.com/derailed/k9s/issues/1805) CronJobs: allow sorting by LAST_SCHEDULE
+* [Issue #1805](https://github.com/Ya-hwon/k9s/issues/1805) CronJobs: allow sorting by LAST_SCHEDULE
 
 ## Contributed PRs (Thank you!!)
 
-* [PR #1804](https://github.com/derailed/k9s/pull/1804) Allow multiple port forwards
-* [PR #1797](https://github.com/derailed/k9s/pull/1797) README - use go install
-* [PR #1793](https://github.com/derailed/k9s/pull/1793) Update CronJob version to v1
+* [PR #1804](https://github.com/Ya-hwon/k9s/pull/1804) Allow multiple port forwards
+* [PR #1797](https://github.com/Ya-hwon/k9s/pull/1797) README - use go install
+* [PR #1793](https://github.com/Ya-hwon/k9s/pull/1793) Update CronJob version to v1
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2022 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2022 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

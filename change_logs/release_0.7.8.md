@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.7.8
 
@@ -26,10 +26,10 @@ There was a few issues regarding running K9s on RBAC enabled clusters. It turns 
 
 ## Resolved Bugs/Features
 
-+ [Issue #242](https://github.com/derailed/k9s/issues/242)
-+ [Issue #241](https://github.com/derailed/k9s/issues/241)
-+ [Issue #201](https://github.com/derailed/k9s/issues/201)
++ [Issue #242](https://github.com/Ya-hwon/k9s/issues/242)
++ [Issue #241](https://github.com/Ya-hwon/k9s/issues/241)
++ [Issue #201](https://github.com/Ya-hwon/k9s/issues/201)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2019 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

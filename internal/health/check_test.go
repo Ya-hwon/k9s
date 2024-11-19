@@ -6,7 +6,7 @@ package health_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/health"
+	"github.com/Ya-hwon/k9s/internal/health"
 	"github.com/stretchr/testify/assert"
 )
 

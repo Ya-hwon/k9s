@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.19.7
 
@@ -16,12 +16,12 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #726](https://github.com/derailed/k9s/issues/726)
-* [Issue #724](https://github.com/derailed/k9s/issues/724)
-* [Issue #722](https://github.com/derailed/k9s/issues/722)
-* [Issue #721](https://github.com/derailed/k9s/issues/721)
-* [Issue #720](https://github.com/derailed/k9s/issues/720)
+* [Issue #726](https://github.com/Ya-hwon/k9s/issues/726)
+* [Issue #724](https://github.com/Ya-hwon/k9s/issues/724)
+* [Issue #722](https://github.com/Ya-hwon/k9s/issues/722)
+* [Issue #721](https://github.com/Ya-hwon/k9s/issues/721)
+* [Issue #720](https://github.com/Ya-hwon/k9s/issues/720)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

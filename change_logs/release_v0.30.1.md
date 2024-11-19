@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
 
 # Release v0.30.1
 
@@ -38,11 +38,11 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2368](https://github.com/derailed/k9s/issues/2368) Pod CPU and MEM columns are empty in 0.30.0
-* [#2367](https://github.com/derailed/k9s/issues/2367) k9s 0.30.0 issue loading plugins
-* [#2366](https://github.com/derailed/k9s/issues/2366) List pods of deployment is now impossible
-* [#2364](https://github.com/derailed/k9s/issues/2364) k9s 0.30.0 fields and values missed in action in the "namespace view"
-* [#2363](https://github.com/derailed/k9s/issues/2363) Default 0.30.0 default skin on macOS is no good
+* [#2368](https://github.com/Ya-hwon/k9s/issues/2368) Pod CPU and MEM columns are empty in 0.30.0
+* [#2367](https://github.com/Ya-hwon/k9s/issues/2367) k9s 0.30.0 issue loading plugins
+* [#2366](https://github.com/Ya-hwon/k9s/issues/2366) List pods of deployment is now impossible
+* [#2364](https://github.com/Ya-hwon/k9s/issues/2364) k9s 0.30.0 fields and values missed in action in the "namespace view"
+* [#2363](https://github.com/Ya-hwon/k9s/issues/2363) Default 0.30.0 default skin on macOS is no good
 
 ---
 
@@ -50,8 +50,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2360](https://github.com/derailed/k9s/pull/2360) adding cancelable launch prompts to NodeShell
+* [#2360](https://github.com/Ya-hwon/k9s/pull/2360) adding cancelable launch prompts to NodeShell
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

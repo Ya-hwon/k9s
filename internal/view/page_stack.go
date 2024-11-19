@@ -6,8 +6,8 @@ package view
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/Ya-hwon/k9s/internal/model"
+	"github.com/Ya-hwon/k9s/internal/ui"
 )
 
 // PageStack represents a stack of pages.

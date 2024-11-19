@@ -6,8 +6,8 @@ package model1
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/config"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 )

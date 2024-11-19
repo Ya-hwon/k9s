@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.24.11
 
@@ -18,14 +18,14 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1163](https://github.com/derailed/k9s/issues/1163) Color for autocomplete text
-* [Issue #1153](https://github.com/derailed/k9s/issues/1153) Crash when scaling a deployment with a custom view
-* [Issue #1151](https://github.com/derailed/k9s/issues/1151) k9s does not use current namespace of current context
-* [Issue #1140](https://github.com/derailed/k9s/issues/1140) Can no longer trigger cronjobs manually
-* [Issue #1137](https://github.com/derailed/k9s/issues/1137) Unreadable container name
-* [Issue #1132](https://github.com/derailed/k9s/issues/1132) Searching for regex not always working
-* [Issue #1131](https://github.com/derailed/k9s/issues/1131) Changed release filenames starting k9s v0.24.10
+* [Issue #1163](https://github.com/Ya-hwon/k9s/issues/1163) Color for autocomplete text
+* [Issue #1153](https://github.com/Ya-hwon/k9s/issues/1153) Crash when scaling a deployment with a custom view
+* [Issue #1151](https://github.com/Ya-hwon/k9s/issues/1151) k9s does not use current namespace of current context
+* [Issue #1140](https://github.com/Ya-hwon/k9s/issues/1140) Can no longer trigger cronjobs manually
+* [Issue #1137](https://github.com/Ya-hwon/k9s/issues/1137) Unreadable container name
+* [Issue #1132](https://github.com/Ya-hwon/k9s/issues/1132) Searching for regex not always working
+* [Issue #1131](https://github.com/Ya-hwon/k9s/issues/1131) Changed release filenames starting k9s v0.24.10
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

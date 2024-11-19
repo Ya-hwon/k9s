@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/Ya-hwon/k9s/internal/model1"
+	"github.com/Ya-hwon/k9s/internal/render"
 	"github.com/stretchr/testify/assert"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/resource"

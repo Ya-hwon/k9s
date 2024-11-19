@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
 
 # Release v0.30.3
 
@@ -36,10 +36,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2379](https://github.com/derailed/k9s/issues/2379) Filtering with equal sign (=) does not work in 0.30.X
-* [#2378](https://github.com/derailed/k9s/issues/2378) Logs directory not created in the k9s config/home dir 0.30.1
-* [#2377](https://github.com/derailed/k9s/issues/2377) Opening AWS EKS contexts create two directories per cluster 0.30.1
+* [#2379](https://github.com/Ya-hwon/k9s/issues/2379) Filtering with equal sign (=) does not work in 0.30.X
+* [#2378](https://github.com/Ya-hwon/k9s/issues/2378) Logs directory not created in the k9s config/home dir 0.30.1
+* [#2377](https://github.com/Ya-hwon/k9s/issues/2377) Opening AWS EKS contexts create two directories per cluster 0.30.1
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/config/mock"
+	"github.com/Ya-hwon/k9s/internal/config/data"
+	"github.com/Ya-hwon/k9s/internal/config/mock"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 	"gopkg.in/yaml.v2"

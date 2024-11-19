@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.17.4
 
@@ -12,7 +12,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/story/this_is_fine_300.png" align="center" width="500" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/story/this_is_fine_300.png" align="center" width="500" height="auto"/>
 
 ## Pulses Part Duh!
 
@@ -33,15 +33,15 @@ k9s:
   ...
 ```
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/story/pulses_tripped.png" align="center" width="500" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/story/pulses_tripped.png" align="center" width="500" height="auto"/>
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #596](https://github.com/derailed/k9s/issues/596)
-- [Issue #593](https://github.com/derailed/k9s/issues/593)
-- [Issue #560](https://github.com/derailed/k9s/issues/560)
+- [Issue #596](https://github.com/Ya-hwon/k9s/issues/596)
+- [Issue #593](https://github.com/Ya-hwon/k9s/issues/593)
+- [Issue #560](https://github.com/Ya-hwon/k9s/issues/560)
   - NOTE!! All credits here goes to [Bruno Meneguello](https://github.com/bkmeneguello) and [Michael Cristina](https://github.com/mcristina422) for making this possible in K9s!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

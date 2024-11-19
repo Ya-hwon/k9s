@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.20.0
 
@@ -61,11 +61,11 @@ There has been quick a bit of surgery going on with this drop, so this release c
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #734](https://github.com/derailed/k9s/issues/734)
-- [Issue #733](https://github.com/derailed/k9s/issues/733)
-- [Issue #716](https://github.com/derailed/k9s/issues/716)
-- [Issue #693](https://github.com/derailed/k9s/issues/693)
+- [Issue #734](https://github.com/Ya-hwon/k9s/issues/734)
+- [Issue #733](https://github.com/Ya-hwon/k9s/issues/733)
+- [Issue #716](https://github.com/Ya-hwon/k9s/issues/716)
+- [Issue #693](https://github.com/Ya-hwon/k9s/issues/693)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

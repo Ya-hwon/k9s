@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.13.7
 
@@ -20,12 +20,12 @@ WOOT!! Big Thank you in this release to [Matthew Davis](https://github.com/mateo
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #520](https://github.com/derailed/k9s/issues/520)
-* [Issue #518](https://github.com/derailed/k9s/issues/518)
-* [Issue #517](https://github.com/derailed/k9s/issues/517)
-* [Issue #516](https://github.com/derailed/k9s/issues/516)
-* [Issue #506](https://github.com/derailed/k9s/issues/506)
+* [Issue #520](https://github.com/Ya-hwon/k9s/issues/520)
+* [Issue #518](https://github.com/Ya-hwon/k9s/issues/518)
+* [Issue #517](https://github.com/Ya-hwon/k9s/issues/517)
+* [Issue #516](https://github.com/Ya-hwon/k9s/issues/516)
+* [Issue #506](https://github.com/Ya-hwon/k9s/issues/506)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

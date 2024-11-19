@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.18.0
 
@@ -23,8 +23,8 @@ Thank you for your gesture of kindness and for supporting K9s!!
 
 If you've contributed $25 or more please reach out to me on slack with your earth coordinates so I can send you your K9s swags!
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/shirts/k9s_front.png" align="center" width="auto" height="100"/>
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/shirts/k9s_back.png" align="center" width="auto" height="100"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/shirts/k9s_front.png" align="center" width="auto" height="100"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/shirts/k9s_back.png" align="center" width="auto" height="100"/>
 
 NOTE: I am one not to pressure folks into giving. However, it does make me sad to see postings out there with clear indications that K9s is being used and yet zero mentions of the web site nor this repo. K9s marketing budget relies entirely on word of mouth and is not pimped out by big corps. So if you publish your work and leverage K9s, please give us a shoutout or at the very least reference this repo or website!
 
@@ -59,11 +59,11 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #628](https://github.com/derailed/k9s/issues/628)
-* [Issue #623](https://github.com/derailed/k9s/issues/623)
-* [Issue #622](https://github.com/derailed/k9s/issues/622)
-* [Issue #565](https://github.com/derailed/k9s/issues/565)
+* [Issue #628](https://github.com/Ya-hwon/k9s/issues/628)
+* [Issue #623](https://github.com/Ya-hwon/k9s/issues/623)
+* [Issue #622](https://github.com/Ya-hwon/k9s/issues/622)
+* [Issue #565](https://github.com/Ya-hwon/k9s/issues/565)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

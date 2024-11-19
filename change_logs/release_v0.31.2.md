@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.31.2
 
@@ -42,10 +42,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2449](https://github.com/derailed/k9s/issues/2449) [Bug]: views.yaml columns not respected on startup
-* [#2448](https://github.com/derailed/k9s/issues/2448) Missing '.thresholds' in config.yaml result in 'assignment to entry in nil map'
-* [#2446](https://github.com/derailed/k9s/issues/2446) Context Switch unreliable/not working
+* [#2449](https://github.com/Ya-hwon/k9s/issues/2449) [Bug]: views.yaml columns not respected on startup
+* [#2448](https://github.com/Ya-hwon/k9s/issues/2448) Missing '.thresholds' in config.yaml result in 'assignment to entry in nil map'
+* [#2446](https://github.com/Ya-hwon/k9s/issues/2446) Context Switch unreliable/not working
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -20,14 +20,14 @@ Your donations will go a long way in keeping our servers lights on and beers in 
 
 ---
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/derailed/k9s?)](https://goreportcard.com/report/github.com/derailed/k9s)
-[![golangci badge](https://github.com/golangci/golangci-web/blob/master/src/assets/images/badge_a_plus_flat.svg)](https://golangci.com/r/github.com/derailed/k9s)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Ya-hwon/k9s?)](https://goreportcard.com/report/github.com/Ya-hwon/k9s)
+[![golangci badge](https://github.com/golangci/golangci-web/blob/master/src/assets/images/badge_a_plus_flat.svg)](https://golangci.com/r/github.com/Ya-hwon/k9s)
 [![codebeat badge](https://codebeat.co/badges/89e5a80e-dfe8-4426-acf6-6be781e0a12e)](https://codebeat.co/projects/github-com-derailed-k9s-master)
-[![Build Status](https://api.travis-ci.com/derailed/k9s.svg?branch=master)](https://travis-ci.com/derailed/k9s)
-[![Docker Repository on Quay](https://quay.io/repository/derailed/k9s/status "Docker Repository on Quay")](https://quay.io/repository/derailed/k9s)
-[![release](https://img.shields.io/github/release-pre/derailed/k9s.svg)](https://github.com/derailed/k9s/releases)
+[![Build Status](https://api.travis-ci.com/Ya-hwon/k9s.svg?branch=master)](https://travis-ci.com/Ya-hwon/k9s)
+[![Docker Repository on Quay](https://quay.io/repository/Ya-hwon/k9s/status "Docker Repository on Quay")](https://quay.io/repository/Ya-hwon/k9s)
+[![release](https://img.shields.io/github/release-pre/Ya-hwon/k9s.svg)](https://github.com/Ya-hwon/k9s/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/mum4k/termdash/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/downloads/derailed/k9s/total.svg)](https://github.com/derailed/k9s/releases)
+[![Releases](https://img.shields.io/github/downloads/Ya-hwon/k9s/total.svg)](https://github.com/Ya-hwon/k9s/releases)
 
 ---
 
@@ -74,12 +74,12 @@ Wanna discuss K9s features with your fellow `K9sers` or simply show your support
 ## Installation
 
 K9s is available on Linux, macOS and Windows platforms.
-Binaries for Linux, Windows and Mac are available as tarballs in the [release page](https://github.com/derailed/k9s/releases).
+Binaries for Linux, Windows and Mac are available as tarballs in the [release page](https://github.com/Ya-hwon/k9s/releases).
 
 * Via [Homebrew](https://brew.sh/) for macOS or Linux
 
    ```shell
-   brew install derailed/k9s/k9s
+   brew install Ya-hwon/k9s/k9s
    ```
 
 * Via [MacPorts](https://www.macports.org)
@@ -115,7 +115,7 @@ Binaries for Linux, Windows and Mac are available as tarballs in the [release pa
 * On Ubuntu
 
   ```shell
-  wget https://github.com/derailed/k9s/releases/download/v0.32.7/k9s_linux_amd64.deb && apt install ./k9s_linux_amd64.deb && rm k9s_linux_amd64.deb
+  wget https://github.com/Ya-hwon/k9s/releases/download/v0.32.7/k9s_linux_amd64.deb && apt install ./k9s_linux_amd64.deb && rm k9s_linux_amd64.deb
   ```
 
 * Via [Winget](https://github.com/microsoft/winget-cli) for Windows
@@ -140,7 +140,7 @@ Binaries for Linux, Windows and Mac are available as tarballs in the [release pa
 
   ```shell
   # NOTE: The dev version will be in effect!
-  go install github.com/derailed/k9s@latest
+  go install github.com/Ya-hwon/k9s@latest
   ```
 
 * Via [Webi](https://webinstall.dev) for Linux and macOS
@@ -190,13 +190,13 @@ Binaries for Linux, Windows and Mac are available as tarballs in the [release pa
   You can run k9s as a Docker container by mounting your `KUBECONFIG`:
 
   ```shell
-  docker run --rm -it -v $KUBECONFIG:/root/.kube/config quay.io/derailed/k9s
+  docker run --rm -it -v $KUBECONFIG:/root/.kube/config quay.io/Ya-hwon/k9s
   ```
 
   For default path it would be:
 
   ```shell
-  docker run --rm -it -v ~/.kube/config:/root/.kube/config quay.io/derailed/k9s
+  docker run --rm -it -v ~/.kube/config:/root/.kube/config quay.io/Ya-hwon/k9s
   ```
 
 ### Building your own Docker image
@@ -668,8 +668,8 @@ A plugin is defined as follows:
 * Command represents ad-hoc commands the plugin runs upon activation
 * Background specifies whether or not the command runs in the background
 * Args specifies the various arguments that should apply to the command above
-* OverwriteOutput boolean option allows plugin developers to provide custom messages on plugin stdout execution. See example in [#2644](https://github.com/derailed/k9s/pull/2644)
-* Dangerous boolean option enables disabling the plugin when read-only mode is set. See [#2604](https://github.com/derailed/k9s/issues/2604)
+* OverwriteOutput boolean option allows plugin developers to provide custom messages on plugin stdout execution. See example in [#2644](https://github.com/Ya-hwon/k9s/pull/2644)
+* Dangerous boolean option enables disabling the plugin when read-only mode is set. See [#2604](https://github.com/Ya-hwon/k9s/issues/2604)
 
 K9s does provide additional environment variables for you to customize your plugins arguments. Currently, the available environment variables are as follows:
 
@@ -1060,8 +1060,8 @@ k9s:
 
 Without the contributions from these fine folks, this project would be a total dud!
 
-<a href="https://github.com/derailed/k9s/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=derailed/k9s" />
+<a href="https://github.com/Ya-hwon/k9s/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ya-hwon/k9s" />
 </a>
 
 ---

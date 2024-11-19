@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s-xmas.png" align="center" width="800" height="auto"/>
 
 # Release v0.30.0
 
@@ -290,10 +290,10 @@ Fernand
 
 ## Resolved Issues
 
-* [#2346](https://github.com/derailed/k9s/issues/2346) k9s should not write state to config.yaml
-* [#2335](https://github.com/derailed/k9s/issues/2335) Restore 0.28 column order on pod view bug
-* [#2331](https://github.com/derailed/k9s/issues/2331) Set a shortcut key to run Vuln Scanning on a resource. Don't scan every resource at every startup.
-* [#2283](https://github.com/derailed/k9s/issues/2283) Adding auto complete in search bar
+* [#2346](https://github.com/Ya-hwon/k9s/issues/2346) k9s should not write state to config.yaml
+* [#2335](https://github.com/Ya-hwon/k9s/issues/2335) Restore 0.28 column order on pod view bug
+* [#2331](https://github.com/Ya-hwon/k9s/issues/2331) Set a shortcut key to run Vuln Scanning on a resource. Don't scan every resource at every startup.
+* [#2283](https://github.com/Ya-hwon/k9s/issues/2283) Adding auto complete in search bar
 
 ---
 
@@ -301,13 +301,13 @@ Fernand
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2357](https://github.com/derailed/k9s/pull/2357) Added ln check for snap
-* [#2350](https://github.com/derailed/k9s/pull/2350) Add symlink into snap
-* [#2348](https://github.com/derailed/k9s/pull/2348) Fix(misc plugins): split up multiline commands, use less -K everywhere
-* [#2343](https://github.com/derailed/k9s/pull/2343) Passing on the correct suggestion parameters
-* [#2341](https://github.com/derailed/k9s/pull/2340) Adding value, yaml and describe views to helm-history
-* [#2340](https://github.com/derailed/k9s/pull/2340) Add pkgx to installation section
+* [#2357](https://github.com/Ya-hwon/k9s/pull/2357) Added ln check for snap
+* [#2350](https://github.com/Ya-hwon/k9s/pull/2350) Add symlink into snap
+* [#2348](https://github.com/Ya-hwon/k9s/pull/2348) Fix(misc plugins): split up multiline commands, use less -K everywhere
+* [#2343](https://github.com/Ya-hwon/k9s/pull/2343) Passing on the correct suggestion parameters
+* [#2341](https://github.com/Ya-hwon/k9s/pull/2340) Adding value, yaml and describe views to helm-history
+* [#2340](https://github.com/Ya-hwon/k9s/pull/2340) Add pkgx to installation section
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

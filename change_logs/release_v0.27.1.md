@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.27.1
 
@@ -18,12 +18,12 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1943](https://github.com/derailed/k9s/issues/1943) k9s display is broken after switching to v0.27.0
-* [Issue #1935](https://github.com/derailed/k9s/issues/1935) Active namespace is dropped after accessing forbidden resources
-* [Issue #1913](https://github.com/derailed/k9s/issues/1913) Exit edit mode deadlock
-* [Issue #1895](https://github.com/derailed/k9s/issues/1895) AWS workspace. K9s fails on startup with unknown userid error
-* [Issue #1842](https://github.com/derailed/k9s/issues/1842) Strange one - brew installed k9s
+* [Issue #1943](https://github.com/Ya-hwon/k9s/issues/1943) k9s display is broken after switching to v0.27.0
+* [Issue #1935](https://github.com/Ya-hwon/k9s/issues/1935) Active namespace is dropped after accessing forbidden resources
+* [Issue #1913](https://github.com/Ya-hwon/k9s/issues/1913) Exit edit mode deadlock
+* [Issue #1895](https://github.com/Ya-hwon/k9s/issues/1895) AWS workspace. K9s fails on startup with unknown userid error
+* [Issue #1842](https://github.com/Ya-hwon/k9s/issues/1842) Strange one - brew installed k9s
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2022 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2022 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

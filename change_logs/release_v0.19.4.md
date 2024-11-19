@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.19.4
 
@@ -23,14 +23,14 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #692](https://github.com/derailed/k9s/issues/692)
-* [Issue #689](https://github.com/derailed/k9s/issues/689)
-* [Issue #685](https://github.com/derailed/k9s/issues/685)
-* [Issue #684](https://github.com/derailed/k9s/issues/684)
-* [Issue #670](https://github.com/derailed/k9s/issues/670)
-* [PR #688](https://github.com/derailed/k9s/pull/688) All credits goes to [David Němec](https://github.com/davidnemec)!!
-* [PR #676](https://github.com/derailed/k9s/pull/676) Big Thanks to [Agrim Asthana](https://github.com/agrimrules)!
+* [Issue #692](https://github.com/Ya-hwon/k9s/issues/692)
+* [Issue #689](https://github.com/Ya-hwon/k9s/issues/689)
+* [Issue #685](https://github.com/Ya-hwon/k9s/issues/685)
+* [Issue #684](https://github.com/Ya-hwon/k9s/issues/684)
+* [Issue #670](https://github.com/Ya-hwon/k9s/issues/670)
+* [PR #688](https://github.com/Ya-hwon/k9s/pull/688) All credits goes to [David Němec](https://github.com/davidnemec)!!
+* [PR #676](https://github.com/Ya-hwon/k9s/pull/676) Big Thanks to [Agrim Asthana](https://github.com/agrimrules)!
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

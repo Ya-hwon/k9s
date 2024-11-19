@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.25.16
 
@@ -71,11 +71,11 @@ k9s:
 
 ## Resolved Issues
 
-* [Issue #1398](https://github.com/derailed/k9s/issues/1398) Pod logs containing brackets not in k9s logs output
-* [Issue #1397](https://github.com/derailed/k9s/issues/1397) Regression: k9s no longer starts in current context namespace since v0.25.12
-* [Issue #1358](https://github.com/derailed/k9s/issues/1358) Namespaces list is empty
-* [Issue #956](https://github.com/derailed/k9s/issues/956) Feature request : Default column sort (by resource view)
+* [Issue #1398](https://github.com/Ya-hwon/k9s/issues/1398) Pod logs containing brackets not in k9s logs output
+* [Issue #1397](https://github.com/Ya-hwon/k9s/issues/1397) Regression: k9s no longer starts in current context namespace since v0.25.12
+* [Issue #1358](https://github.com/Ya-hwon/k9s/issues/1358) Namespaces list is empty
+* [Issue #956](https://github.com/Ya-hwon/k9s/issues/956) Feature request : Default column sort (by resource view)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

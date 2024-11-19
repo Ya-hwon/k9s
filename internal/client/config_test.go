@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/client"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/cli-runtime/pkg/genericclioptions"

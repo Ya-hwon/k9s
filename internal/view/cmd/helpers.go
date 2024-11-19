@@ -7,7 +7,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/client"
 )
 
 func ToLabels(s string) map[string]string {

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.21.5
 
@@ -24,7 +24,7 @@ Don't let OSS by individual contributors become an oxymoron...
 
 ## New Skins On The Block!
 
-In this drop, big thanks are in effect for [Dan Mikita](https://github.com/danmikita) for contributing a new K9s [solarized theme](https://github.com/derailed/k9s/tree/master/skins)!
+In this drop, big thanks are in effect for [Dan Mikita](https://github.com/danmikita) for contributing a new K9s [solarized theme](https://github.com/Ya-hwon/k9s/tree/master/skins)!
 
 Also we've added a new skin configuration for table's cursor namely `cursorFgColor` and `cursorBgColor`:
 
@@ -46,11 +46,11 @@ Also we've added a new skin configuration for table's cursor namely `cursorFgCol
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #826](https://github.com/derailed/k9s/issues/826)
-* [Issue #824](https://github.com/derailed/k9s/issues/824)
-* [Issue #823](https://github.com/derailed/k9s/issues/823)
-* [Issue #821](https://github.com/derailed/k9s/issues/821)
+* [Issue #826](https://github.com/Ya-hwon/k9s/issues/826)
+* [Issue #824](https://github.com/Ya-hwon/k9s/issues/824)
+* [Issue #823](https://github.com/Ya-hwon/k9s/issues/823)
+* [Issue #821](https://github.com/Ya-hwon/k9s/issues/821)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

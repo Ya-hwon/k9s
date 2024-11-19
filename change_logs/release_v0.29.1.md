@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s.png" align="center" width="800" height="auto"/>
 
 # Release v0.29.1
 
@@ -25,10 +25,10 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [#2330](https://github.com/derailed/k9s/issues/2330) Skins don't work v0.29.0
-* [#2329](https://github.com/derailed/k9s/issues/2329) New skin system in v0.29.0 doesn't work if you use different k8s context files
-* [#2327](https://github.com/derailed/k9s/issues/2327) [Bug] Item highlighting broke in v0.29.0
+* [#2330](https://github.com/Ya-hwon/k9s/issues/2330) Skins don't work v0.29.0
+* [#2329](https://github.com/Ya-hwon/k9s/issues/2329) New skin system in v0.29.0 doesn't work if you use different k8s context files
+* [#2327](https://github.com/Ya-hwon/k9s/issues/2327) [Bug] Item highlighting broke in v0.29.0
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.13.4
 
@@ -35,10 +35,10 @@ A small change here based on [Benjamin](https://github.com/binarycoded) excellen
 
 ## Resolved Bugs/Features
 
-* [Issue #507](https://github.com/derailed/k9s/issues/507) ??May be??
-* [PR #489](https://github.com/derailed/k9s/issues/489) ATTA Boy! [Benjamin](https://github.com/binarycoded)
-* [PR #491](https://github.com/derailed/k9s/issues/491) Big Thanks! [Bjoern](https://github.com/bjoernmichaelsen)
+* [Issue #507](https://github.com/Ya-hwon/k9s/issues/507) ??May be??
+* [PR #489](https://github.com/Ya-hwon/k9s/issues/489) ATTA Boy! [Benjamin](https://github.com/binarycoded)
+* [PR #491](https://github.com/Ya-hwon/k9s/issues/491) Big Thanks! [Bjoern](https://github.com/bjoernmichaelsen)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

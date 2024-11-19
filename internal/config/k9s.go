@@ -13,8 +13,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config/data"
+	"github.com/Ya-hwon/k9s/internal/client"
+	"github.com/Ya-hwon/k9s/internal/config/data"
 	"github.com/rs/zerolog/log"
 )
 

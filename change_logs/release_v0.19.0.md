@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.19.0
 
@@ -24,7 +24,7 @@ As you might have heard, the good Kubernetes folks just dropped some big feature
 
 ## Oh Biffs'em And Buffs'em Popeye!
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_popeye.png" align="center" width="400" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_popeye.png" align="center" width="400" height="auto"/>
 
 As you may know, I am the author of [Popeye](https://popeyecli.io) a Kubernetes cluster linter/sanitizer. Popeye scans your clusters live and reports potential issues, things like: referential integrity, misconfiguration, resource usage, etc...
 In this drop, we've integrated K9s and Popeye to produce what I believe is a killer combo. Not only can you manage/observe your cluster resources in the wild, but you can now assert that your resources are indeed cool and potentially get rid of dead weights that might add up to your monthly cloud service bills. How cool is that?
@@ -33,8 +33,8 @@ In order to run your sanitization and produce reports, you can enter a new comma
 
 NOTE! This is very much still experimental, so you may experience some disturbances in the force! And remember PRs are always open ;)
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/popeye/sanitizers.png" align="center" width="400" height="auto"/>
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/popeye/report.png" align="center" width="400" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/popeye/sanitizers.png" align="center" width="400" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/popeye/report.png" align="center" width="400" height="auto"/>
 
 ## Command History Support
 
@@ -60,14 +60,14 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #647](https://github.com/derailed/k9s/issues/647)
-* [Issue #645](https://github.com/derailed/k9s/issues/645)
-* [Issue #640](https://github.com/derailed/k9s/issues/640)
-* [Issue #639](https://github.com/derailed/k9s/issues/639)
-* [Issue #635](https://github.com/derailed/k9s/issues/635)
-* [Issue #634](https://github.com/derailed/k9s/issues/634) Thank you!! [David Němec](https://github.com/davidnemec)
-* [Issue #626](https://github.com/derailed/k9s/issues/626)
+* [Issue #647](https://github.com/Ya-hwon/k9s/issues/647)
+* [Issue #645](https://github.com/Ya-hwon/k9s/issues/645)
+* [Issue #640](https://github.com/Ya-hwon/k9s/issues/640)
+* [Issue #639](https://github.com/Ya-hwon/k9s/issues/639)
+* [Issue #635](https://github.com/Ya-hwon/k9s/issues/635)
+* [Issue #634](https://github.com/Ya-hwon/k9s/issues/634) Thank you!! [David Němec](https://github.com/davidnemec)
+* [Issue #626](https://github.com/Ya-hwon/k9s/issues/626)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

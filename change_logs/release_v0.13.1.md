@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_small.png" align="right" width="200" height="auto"/>
 
 # Release v0.13.1
 
@@ -12,7 +12,7 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ### XRay Reloaded?
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_xray.png"/>
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/k9s_xray.png"/>
 
 In the last release excitement, forgot to link the video update. Check it out! [K9s Xray](https://www.youtube.com/watch?v=qaeR2iK7U0o). Yup, got a cold... The joy of transports on the flying Petri dishes we call airplanes ;(
 
@@ -30,9 +30,9 @@ Still work in progress... so please proceed with caution!
 
 ## Resolved Bugs/Features
 
-* [Issue #498](https://github.com/derailed/k9s/issues/498)
-* [Issue #497](https://github.com/derailed/k9s/issues/497)
+* [Issue #498](https://github.com/Ya-hwon/k9s/issues/498)
+* [Issue #497](https://github.com/Ya-hwon/k9s/issues/497)
 
 ---
 
-<img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+<img src="https://raw.githubusercontent.com/Ya-hwon/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2020 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
